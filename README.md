@@ -1,18 +1,27 @@
-<p align="center"> <!-- Center-align the content -->
-    <!-- Custom badge with your name -->
-    <a href="https://github.com/your_username">
-        <img src="https://img.shields.io/badge/Name-YourName-red?style=flat-square">
-    </a>  
-    <br/>
-    <!-- Add more badges with relevant information -->
-    <a href="https://your-website.com">
-        <img src="https://img.shields.io/badge/Website-yourwebsite.com-green?style=flat-square">
-    </a>  
-    <a href="https://your-resume.com">
-        <img src="https://img.shields.io/badge/Resume-yourresume.com-blue?style=flat-square">
-    </a>  
-    <a href="https://www.linkedin.com/in/your-linkedin">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
-    </a>
-    <!-- Add more badges as needed -->
+<p align="center">
+    <span id="rotatedName"></span>
 </p>
+<p align="center">
+    Certified Data Scientist
+</p>
+
+<script>
+// Function to rotate alphabet
+function rotateAlphabet(text, shift) {
+    let result = "";
+    for (let i = 0; i < text.length; i++) {
+        let charCode = text.charCodeAt(i);
+        if (charCode >= 65 && charCode <= 90) {
+            result += String.fromCharCode(((charCode - 65 + shift) % 26) + 65);
+        } else if (charCode >= 97 && charCode <= 122) {
+            result += String.fromCharCode(((charCode - 97 + shift) % 26) + 97);
+        } else {
+            result += text[i];
+        }
+    }
+    return result;
+}
+
+// Rotate the name "Mohit Janbandhu" by 1 position
+document.getElementById("rotatedName").innerText = rotateAlphabet("Mohit Janbandhu", 1);
+</script>
