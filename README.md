@@ -1,4 +1,3 @@
-```
 def rotate_alphabet(text, shift):
     result = ""
     for char in text:
@@ -20,4 +19,3 @@ def print_rotated_text():
     print(shifted_title)
 
 print_rotated_text()
-```
