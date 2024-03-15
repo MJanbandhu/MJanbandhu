@@ -13,13 +13,14 @@ def rotate_alphabet(text, shift):
 def print_rotated_text():
     name = "Mohit Janbandhu"
     shifted_name = rotate_alphabet(name, 1)  # Rotate each alphabet by 1
-    print(shifted_name)
-
     title = "Certified Data Scientist"
     shifted_title = rotate_alphabet(title, 3)  # Shift title by 3
-    print(shifted_title)
+
+    # Output in center-aligned Markdown format
+    print(f"<p align='center'>{shifted_name}</p>")
+    print(f"<p align='center'>{shifted_title}</p>")
 
 print_rotated_text()
 ```
-Npiju Kbocboeiv
-Fhuwlilhg Gdwd Vflhqwlvw
+<p align='center'>Npiju Kbocboeiv</p>
+<p align='center'>Fhuwlilhg Gdwd Vflhqwlvw</p>
