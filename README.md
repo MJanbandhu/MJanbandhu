@@ -1,7 +1,11 @@
-Hi, I’m @MJanband
+Hi, I’m @MJanbandhu
+
 I’m interested in Data Science Project
+
 I’m currently learning AI, ML and DL
+
 I’m looking to collaborate on ML Project
+
 How to reach me (https://www.linkedin.com/in/mohitjanbandhu)
 
 <!---
