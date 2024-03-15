@@ -1,5 +1,3 @@
-<p align='center'>Npiju Kbocboeiv</p>
-<p align='center'>Fhuwlilhg Gdwd Vflhqwlvw</p>
 <!DOCTYPE html>
 <html lang="en">
 <head>
