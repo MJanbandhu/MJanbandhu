@@ -1,7 +1,8 @@
-```<div style="text-align: center;"> 
+```
+<div style="text-align: center;"> 
 <h1>Mohit Janbandhu</h1>
- <p>Certified Data Scientist</p>
- <p>Rotating Alphabet:</p>
+<p>Certified Data Scientist</p>
+<p>Rotating Alphabet:</p>
 <ul>
 <li>M</li>
 <li>o</li>
@@ -18,4 +19,11 @@
 <li>h</li>
 <li>u</li>
 </ul></div>
+```
+```
+@keyframes rotate {
+from { transform: rotate(0deg); }
+to
+{ transform: rotate(360deg); }}.rotate
+{ animation: rotate 3s infinite linear;}
 ```
