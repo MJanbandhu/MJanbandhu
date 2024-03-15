@@ -25,3 +25,19 @@ function rotateAlphabet(text, shift) {
 // Rotate the name "Mohit Janbandhu" by 1 position
 document.getElementById("rotatedName").innerText = rotateAlphabet("Mohit Janbandhu", 1);
 </script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rotated Text</title>
+</head>
+<body>
+<p align="center">
+    Npiju Kboboeivjv
+</p>
+<p align="center">
+    Fhuhlfiw Gdwdvwhqfyl
+</p>
+</body>
+</html>
