@@ -1,11 +1,16 @@
-<p align="right"> <!-- Align the content to the right -->
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=32&duration=2200&pause=120&multiline=true&width=600&height=120&lines=Mohit+Janbandhu".alt="Typing SVG">
-</p>
-<div align="right"> <!-- Align the content to the right -->
-<span style="opacity: 0;">Certified Data Scientist</span>
- </div>
+ 
 
-<p align="center"> <!-- Center-align the content -->
+
+<!-- Typing Animation SVG -->
+<p align="right">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Your+Name;Your+Title+or+Role;Your+Areas+of+Expertise" alt="Typing SVG" />
+<!-- Your Name -->
+<h1 align="center">Mohit Janbandhu</h1>
+<!-- Your Job Title -->
+<h3 align="center">Certified Data Scientist</h3>
+
+<!-- Contact Links -->
+<p align="center">
     <!-- Links to personal website, resume, LinkedIn, and email -->
     <a href="https://www.linkedin.com/in/mohitjanbandhu">
         <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
@@ -18,9 +23,7 @@
     </a>
 </p>
 
+
+
+
  
-
-
-
-
-
