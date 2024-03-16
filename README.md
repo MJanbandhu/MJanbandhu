@@ -17,9 +17,14 @@
         <img src="https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white">
     </a>
 </p>
-
-
- 
+<!--
+-
+-
+-
+-
+-
+-
+--->
 
 <p> Graduated Bachelor of Engineering in Information Technology. </p>
 <p> Looking For collaborate on AI/ML/DL Projects.</p>
