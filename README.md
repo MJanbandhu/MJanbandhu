@@ -19,6 +19,11 @@
 </p>
 
 
+ 
+
+<p> Graduated Bachelor of Engineering in Information Technology. </p>
+<p> Looking For collaborate on AI/ML/DL Projects.</p>
+
 
 
  
