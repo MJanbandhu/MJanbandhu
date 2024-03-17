@@ -59,7 +59,7 @@
 |
 
 
-#### Up Comming Projects
+#### UpComming Projects
 <table>
 <tr><th>Data Science Project </th></tr>
 
