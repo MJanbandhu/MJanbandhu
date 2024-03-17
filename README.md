@@ -29,6 +29,29 @@
 <p> Graduated Bachelor of Engineering in Information Technology. </p>
 <p> Looking For collaborate on AI/ML/DL Projects.</p>
 
+ 
+
+</p>
+
+```
+
+
+
+
+```
+
+
+## My Projects
+<table>
+<tr><th>Data Science Project </th></tr>
+<tr>
+
+| Project Name | Description | Technologies Used | Algorithms Used |
+| --- | --- | --- | --- |
+| [Employee Performance Analysis (IABAC)](https://github.com/MJanbandhu/IABAC-Employee-Performance-Analysis-INX-Future-Inc..git)|Analyze employee performance data to identify trends and patterns.| [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://www.python.org/)  [![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)](https://numpy.org/)  [![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)](https://pandas.pydata.org/)  [![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib)](https://matplotlib.org/)  [![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=seaborn)](https://seaborn.pydata.org/) [![scikit-learn](https://img.shields.io/badge/-scikit--learn-black?style=flat-square&logo=scikit-learn)](https://scikit-learn.org/) |PCA, Decision Trees, Random Forest, Supper Vector Machine, Gradient Boosting, XG-Boost, K-Nearest Neighbors, Artificial Neural Network|
+| [RiceLeafDiseaseDetection](https://github.com/MJanbandhu/RiceLeafDiseaseDetection.git)|Classify rice leaf diseases based on images.| [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://www.python.org/)  [![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)](https://numpy.org/)  [![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)](https://pandas.pydata.org/)  [![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib)](https://matplotlib.org/) <br/>  [![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=seaborn)](https://seaborn.pydata.org/) [![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras)](https://keras.io/) [![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)](https://www.tensorflow.org/) | Regression, Decision Trees , Neural Networks, CNN|
+| [Protugese Bank Marketing](https://github.com/MJanbandhu/PortugeseBankMarketingProject.git)|Predict whether a client will subscribe to a term deposit based on marketing campaigns. | [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://www.python.org/)  [![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)](https://numpy.org/)  [![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)](https://pandas.pydata.org/)  [![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib)](https://matplotlib.org/)  [![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=seaborn)](https://seaborn.pydata.org/) [![scikit-learn](https://img.shields.io/badge/-scikit--learn-black?style=flat-square&logo=scikit-learn)](https://scikit-learn.org/) |Logistic Regression, Gradient Boosting, XG-Boost, Decision Trees, Random Forest, Supper Vector Machine, K-Nearest Neighbors, Artificial Neural Network|
+</tr> </table>
 
 
  
