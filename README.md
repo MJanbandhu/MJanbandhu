@@ -61,12 +61,12 @@
 
 #### UpComming Projects
 <table>
-<tr><th>Data Science Project </th></tr>
+<tr><th> Project DS/AI/ML </th></tr>
 
-| Project Name | Description | Technologies |
-| --- | --- | --- |
-|***************************** | *************************************************************************** |***************************************************** |
-|----------------------------- | --------------------------------------------------------------------------- |----------------------------------------------------- |
+| Project Name | Description | Technologies |PyPI (Package Name)|
+| --- | --- | --- |---|
+|[ChatBot](https://github.com/MJanbandhu/chatbotMJ.git)| Creating a simple rule-based chatbot using Python. This chatbot can understand user input and provide predefined responses based on the detected intent of the input. |[![NLTK](https://img.shields.io/badge/-NLTK-black?style=flat-square&logo=nltk)](https://www.nltk.org/) [![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras)](https://keras.io/) [![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)](https://numpy.org/) [![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json)](#) [![HDF5](https://img.shields.io/badge/-HDF5-black?style=flat-square&logo=hdf5)](#)[![PyPI](https://img.shields.io/badge/-PyPI-black?style=flat-square&logo=pypi)](https://pypi.org/)|Uploading Package soon|
+|----------------------------- | --------------------------------- |----------------------------------- |-------------------------------|
 <tr> 
 
 
