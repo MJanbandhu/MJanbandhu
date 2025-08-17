@@ -9,7 +9,7 @@
 <p align="left">
     <!-- Links to personal website, resume, LinkedIn, and email -->
     <a href="https://mjanbandhu.github.io/MohitJanbandhu/" target="_blank">
-        <img src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome&logoColor=white">
+        <img src="https://img.shields.io/badge/Website-red?style=flat-square&logo=google-chrome&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/mohitjanbandhu" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
