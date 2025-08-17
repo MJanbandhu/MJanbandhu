@@ -8,14 +8,17 @@
 </div>
 <p align="left">
     <!-- Links to personal website, resume, LinkedIn, and email -->
-    <a href="https://www.linkedin.com/in/mohitjanbandhu">
-        <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+    <a href="https://mjanbandhu.github.io/MohitJanbandhu/" target="_blank">
+        <img src="https://img.shields.io/badge/Website-blue?style=flat-square&logo=google-chrome&logoColor=white">
+    </a>
+    <a href="https://www.linkedin.com/in/mohitjanbandhu" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white">
     </a>
     <a href="mailto:mojanbandhu@gmail.com">
-        <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+        <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white">
     </a>
-    <a href="https://www.kaggle.com/mohitjanbandhu">
-        <img src="https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white">
+    <a href="https://www.kaggle.com/mohitjanbandhu" target="_blank">
+        <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white">
     </a>
 </p>
 <p> Graduated Bachelor of Engineering in Information Technology. </p>
