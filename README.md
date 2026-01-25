@@ -1,9 +1,9 @@
 <div style="text-align: right; margin: 0 auto; max-width: 80%;">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=36&duration=1800&pause=150&multiline=true&width=650&height=45&lines=Mohit+A.+Janbandhu" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=42&duration=1800&pause=150&multiline=true&width=650&height=47&lines=Mohit+A.+Janbandhu" alt="Typing SVG" />
 </div>
 
 <div style="text-align: right; margin: 0 auto; max-width: 80%;">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=250&multiline=true&width=550&height=25&lines=Certified+Data+Scientist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=2000&pause=250&multiline=true&width=450&height=35&lines=Certified+Data+Scientist" alt="Typing SVG" />
     <p>|| Software Engineer || Data Scientist || AI/ML/DL || CS Practitioner ||</p>
 </div>
 
