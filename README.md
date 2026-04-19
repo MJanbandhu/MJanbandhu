@@ -48,7 +48,19 @@ Master of Business Administration in Business Analytics (MBA-BA) — Pursuing
 Open to collaboration on AI / ML / Deep Learning projects
 </p>
 
+#### CLI Portfolio 
 
+> A unique terminal-based portfolio system simulating a real developer CLI
+
+Install and explore directly from your terminal:
+
+```bash
+pip install MohitJan
+Run: mohitjan
+OR
+Run: python -m MohitJan.main
+
+```
 
 <!--
 ## GitHub Contribution 
