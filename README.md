@@ -50,7 +50,7 @@ Open to collaboration on AI / ML / Deep Learning projects
 
 #### CLI Portfolio 
 
-> A unique terminal-based portfolio system simulating a real developer CLI
+> Terminal-based portfolio 
 
 Install and explore directly from your terminal:
 
