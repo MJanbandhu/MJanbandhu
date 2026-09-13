@@ -41,7 +41,7 @@
 
 <p>
 Bachelor of Engineering in Information Technology (BE-IT)<br/>
-Master of Business Administration in Business Analytics (MBA-BA) — Pursuing
+Master of Business Administration in Business Analytics (MBA-BA)
 </p>
 
 <p>
